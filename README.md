@@ -45,7 +45,7 @@
 * **Tecnologias:** `React`, `Vite`, `React Router`, `Tailwind CSS`
 * **Destaques:** Arquitetura limpa, rotas protegidas com autenticação stateless JWT e isolamento de dados por usuário.
 
-[![toEvent Preview](https://via.placeholder.com/800x400/1e1e2e/ffffff?text=Clique+para+ver+o+projeto+toEvent)](https://github.com/wesle-yey/toEvent)
+[![toEvent Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/toEvent.png)](https://github.com/wesle-yey/toEvent)
 
 ---
 
@@ -53,7 +53,7 @@
 * **Tecnologias:** `React`, `JavaScript`, `CSS`
 * **Destaques:** Ferramenta prática voltada para a criação e estruturação otimizada de currículos profissionais focados em ATS.
 
-[![Vitae Preview](https://via.placeholder.com/800x400/282c34/61dafb?text=Vitae+-+Gerador+de+Curriculos)](https://github.com/wesle-yey/Vitae)
+[![Vitae Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/vitae.png)](https://github.com/wesle-yey/Vitae)
 
 ---
 
