@@ -42,32 +42,23 @@
 ## 🚀 Principais Projetos
 
 ### 📱 1. `toEvent` (Aplicação Web)
-* **Tecnologias:** `React`, `Vite`, `React Router`, `Tailwind CSS`
-* **Destaques:** Arquitetura limpa, rotas protegidas com autenticação stateless JWT e isolamento de dados por usuário.
+- **Tecnologias:** `React`, `Vite`, `React Router`, `Tailwind CSS`
+- **Destaques:** Arquitetura limpa, rotas protegidas com autenticação stateless JWT e isolamento de dados por usuário.
 
 [![toEvent Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/toEvent.png)](https://github.com/wesle-yey/toEvent)
 
 ---
 
 ### 📄 2. `Vitae` (Gerador de Currículos)
-* **Tecnologias:** `EJS`, `JavaScript`, `CSS`
-* **Destaques:** Ferramenta prática voltada para a criação e estruturação otimizada de currículos profissionais focados em ATS.
+- **Tecnologias:** `EJS`, `JavaScript`, `CSS`
+- **Destaques:** Ferramenta prática voltada para a criação e estruturação otimizada de currículos profissionais focados em ATS.
 
 [![Vitae Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/vitae.png)](https://github.com/wesle-yey/Vitae)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=wesle-yey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesle-yey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Conecte-se comigo
 
-* **GitHub:** [@wesle-yey](https://github.com/wesle-yey)
-* **Linkedin:** [@wesle-yey](https://linkedin.com/in/wesle-yey)
-* **E-mail:** wesleymosousa@gmail.com
+- **GitHub:** [@wesle-yey](https://github.com/wesle-yey)
+- **Linkedin:** [@wesle-yey](https://linkedin.com/in/wesle-yey)
+- **E-mail:** wesleymosousa@gmail.com
