@@ -60,8 +60,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=wesle-yey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesle-yey&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=wesle-yey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesle-yey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
