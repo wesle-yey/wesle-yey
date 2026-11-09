@@ -50,7 +50,7 @@
 ---
 
 ### 📄 2. `Vitae` (Gerador de Currículos)
-* **Tecnologias:** `React`, `JavaScript`, `CSS`
+* **Tecnologias:** `EJS`, `JavaScript`, `CSS`
 * **Destaques:** Ferramenta prática voltada para a criação e estruturação otimizada de currículos profissionais focados em ATS.
 
 [![Vitae Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/vitae.png)](https://github.com/wesle-yey/Vitae)
