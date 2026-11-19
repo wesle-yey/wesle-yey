@@ -1,64 +1,72 @@
 <h1 align="center">Olá, eu sou o Wesley Moreira 👋</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wesle-yey&color=blue&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Disponível_para_Novos_Projetos-success?style=flat-square" alt="Status" />
+  <b>Desenvolvedor Backend</b> · Java, Spring Boot e Python · Fortaleza, CE
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack & Mobile</b> apaixonado por transformar problemas complexos em soluções eficientes, escaláveis e focadas na experiência do usuário.
+  Graduado em Análise e Desenvolvimento de Sistemas (IFCE). Construo APIs REST com autenticação, testes e deploy em contêineres, e trabalho com integração de sistemas via SOAP/XML.
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack
 
 <p align="center">
-  <!-- Front-end & Mobile -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <!-- Back-end & Linguagens -->
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP_%2F_XML-CC292B?style=for-the-badge&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-  <!-- DevOps & Infra -->
+  <!-- Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- DevOps e testes -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+  <!-- Front-end e mobile -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Projetos em destaque
 
-### 📱 1. `toEvent` (Aplicação Web)
-- **Tecnologias:** `React`, `Vite`, `React Router`, `Tailwind CSS`
-- **Destaques:** Arquitetura limpa, rotas protegidas com autenticação stateless JWT e isolamento de dados por usuário.
+### [toEvent](https://github.com/wesle-yey/toEvent) · [demo](https://to-event.vercel.app)
+Aplicação para organizar eventos pessoais, com API REST própria.
+- **Backend:** Java 17, Spring Boot, Spring Security, MongoDB, Docker Compose
+- **Frontend:** React, Vite
+- **Destaques:** autenticação JWT em cookies HTTP, rate limiting, isolamento de dados por usuário e regras de negócio por plano.
 
-[![toEvent Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/toEvent.png)](https://github.com/wesle-yey/toEvent)
+[![toEvent](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/toEvent.png)](https://github.com/wesle-yey/toEvent)
+
+### [Codes-delivery](https://github.com/wesle-yey/Codes-delivery)
+Backend de food delivery focado no fluxo de pedidos e avaliações.
+- **Stack:** Java 17, Spring Boot, PostgreSQL, Docker
+- **Destaques:** máquina de estados do pedido (criado → aceito/recusado → entregue → avaliado) e documentação da arquitetura e do modelo de dados.
+
+### [API de Gerenciamento Escolar](https://github.com/wesle-yey/API-Gerenciamento-escolar)
+API REST para cursos, alunos e professores.
+- **Stack:** Python, FastAPI, pytest, GitHub Actions
+- **Destaques:** autenticação, testes automatizados com cobertura e pipeline de CI/CD a cada push.
+
+### [Vitae](https://github.com/wesle-yey/Vitae) · [demo](https://vitae-gamma.vercel.app)
+Gerador de currículos em PDF a partir de um formulário.
+- **Stack:** Node.js, Express, EJS, pdfmake
+
+[![Vitae](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/vitae.png)](https://github.com/wesle-yey/Vitae)
 
 ---
 
-### 📄 2. `Vitae` (Gerador de Currículos)
-- **Tecnologias:** `EJS`, `JavaScript`, `CSS`
-- **Destaques:** Ferramenta prática voltada para a criação e estruturação otimizada de currículos profissionais focados em ATS.
+## 📫 Contato
 
-[![Vitae Preview](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/vitae.png)](https://github.com/wesle-yey/Vitae)
-
----
-
-## 📫 Conecte-se comigo
-
-- **GitHub:** [@wesle-yey](https://github.com/wesle-yey)
-- **Linkedin:** [@wesle-yey](https://linkedin.com/in/wesle-yey)
+- **LinkedIn:** [linkedin.com/in/wesle-yey](https://linkedin.com/in/wesle-yey)
 - **E-mail:** wesleymosousa@gmail.com
