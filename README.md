@@ -44,7 +44,7 @@
 Aplicação para organizar eventos pessoais, com API REST própria.
 - **Backend:** Java 17, Spring Boot, Spring Security, MongoDB, Docker Compose
 - **Frontend:** React, Vite
-- **Destaques:** autenticação JWT em cookies HTTP, rate limiting, isolamento de dados por usuário e regras de negócio por plano.
+- **Destaques:** autenticação JWT em cookie HttpOnly, confirmação de e-mail via API HTTP do Brevo com proteção contra envio em massa, bloqueio de e-mails temporários, rate limiting, isolamento de dados por usuário, regras de negócio por plano e 46 testes automatizados.
 
 [![toEvent](https://raw.githubusercontent.com/wesle-yey/wesle-yey/refs/heads/main/assets/toEvent.png)](https://github.com/wesle-yey/toEvent)
 
